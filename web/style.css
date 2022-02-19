@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: rgb(89, 200, 247);
+}
+h2{
+    font-size: 18px;
+}
+table{
+    border: 1px solid violet;
+}
+#reiniciar{
+    margin-top: 15px;
+    background-color: pink;
+}
+#enviar{
+    margin-bottom: 15px;
+    background-color: pink;
+}
